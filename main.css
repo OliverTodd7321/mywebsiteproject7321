@@ -33,6 +33,22 @@ body {
     padding: 20px;
 }
 
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.caption {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+     border-radius: 50%;
+     width: 200px;
+}
+
 
 p{
     font-family: 'Roboto', sans-serif;
@@ -94,3 +110,6 @@ h8 {
     text-align: center;
     font-family: sans-serif;
 }
+
+
+
