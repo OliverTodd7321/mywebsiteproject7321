@@ -1,0 +1,96 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+
+
+body{
+    color: white;
+width: 90%;
+margin: 0 auto;}
+#content {overflow: auto;}
+#nav {
+    display: flex;
+    flex-direction: row;
+    ;
+}
+
+
+.navi {
+    margin: 0 20px 0 0;
+    padding: 20px;
+    height: 25px;
+    background-color: goldenrod;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+body {
+    background-color: rgb(250, 170, 112);
+    color: black;
+    padding: 20px;
+}
+
+
+p{
+    font-family: 'Roboto', sans-serif;
+    height: 75%;
+    width: 80%;
+    color: black;
+    background-color: rgb(202, 202, 202);
+    text-align: center;
+    padding: 5px;
+    border-color: black;
+    border-width: 10px;
+    margin: 10px auto 10px auto;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h5 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h6 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h7 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h8 {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
